@@ -9,7 +9,7 @@ close all
 clc
 
 codePath = pwd;
-dataPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Paper_KTDEEG\EMBC01_KTDEEG\Codes\Results';
+dataPath = 'C:\EMBC22_KTDEEG\Codes\Results';
 dataName = 'A09';
 featureName = 'RAW';
 classifierName = 'KTD';
