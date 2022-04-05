@@ -7,8 +7,8 @@ clear; clc; close all
 %resultPath: This is the folder where you want your results (feature data and images) to be stored.
 %subjectName = name of the Subject that you want to visualize.
 
-dataPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Codes\BCIcompetitionIV-2a';
-resultPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Codes\Results';
+dataPath = 'C:\EMBC22_KTDEEG\Codes\BCIcompetitionIV-2a';
+resultPath = 'C:\EMBC22_KTDEEG\Codes\Results';
 dataName = 'A09';
 %'A01' or 'A02' or 'A03' or 'A04' or 'A05'
 %'A06' or 'A07' or 'A08' or 'A09'
