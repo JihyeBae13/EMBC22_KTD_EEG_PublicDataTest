@@ -10,9 +10,8 @@ For Data A,
 2. Code_Step02_KTD_EEG_wQuantization
 3. Code_Step03A_EEG_DataA
 
-The data A (EEG set) is available at the the following wegsite: 
+The Data A (EEG set) is available at the the following wegsite: 
 https://figshare.com/collections/A_large_electroencephalographic_motor_imagery_dataset_for_electroencephalographic_brain_computer_interfaces/3917698
-A proper citation is required to use this data set, as described in the website.
 
 For Data B,
 1. Code_Step01B_EEG_DataB
@@ -20,5 +19,6 @@ For Data B,
 3. Code_Step03B_EEG_DataB
 
 The Data B (EEG set) is available at the BCI competition IV website (https://www.bbci.de/competition/iv/).
-A proper citation is required to use this data set, as described in the website.
+
+A proper citation is required to use any of these data set, as described in their websites.
 
