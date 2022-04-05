@@ -3,6 +3,8 @@ This pakage includes all codes to generate figures in the following paper:
 
 Bhoj Raj Thapa, Daniel Restrepo Tangarife, and Jihye Bae. "Kernel Temporal Differences for EEG-based Reinforcement Learning Brain Machine Interfaces." 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022.
 
+Use of any of these codes require to cite this conference paper.
+
 To generate the figures, please consider runinning the uploaded codes in the following sequences:
 
 For Data set A,
