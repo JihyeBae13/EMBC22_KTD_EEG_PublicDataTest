@@ -20,7 +20,7 @@ For Data set B,
 2. Code_Step02_KTD_EEG_wQuantization.m
 3. Code_Step03B_EEG_DataB.m
 
-Data set B (EEG files) is available at the BCI competition IV website (https://www.bbci.de/competition/iv/).
+Data set B (EEG files) is available at the BCI competition IV website: https://www.bbci.de/competition/iv/.
 
 A proper citation is required to use any of these data set, as described in their websites.
 
