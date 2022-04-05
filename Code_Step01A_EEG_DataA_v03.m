@@ -1,7 +1,7 @@
 clear; clc; close all
 
-dataPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Codes\NatureData-CLA';
-resultPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Codes\Results';
+dataPath = 'C:\EMBC22_KTDEEG\Codes\NatureData-CLA';
+resultPath = 'C:\EMBC22_KTDEEG\Codes\Results';
 dataName = 'CLASubjectC1511263StLRHand';
 
 cd(resultPath)
