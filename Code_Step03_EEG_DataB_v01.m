@@ -1,8 +1,8 @@
 clear; clc; close all
 
 codePath = pwd;
-dataPathIni = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Codes\Results';
-resultPath = 'C:\Users\jbae2\Desktop\Jihye Bae\20211202 467C 5820\UK\Lab\2020_Bhoj02\Papers\EMBC01_KTDEEG\Manuscript\Figures';
+dataPathIni = 'C:\EMBC22_KTDEEG\Codes\Results';
+resultPath = 'C:\EMBC22_KTDEEG\Manuscript\Figures';
 featureName = 'FTA';
 classifierName = 'KTD';
 dataName = {'A01', 'A02','A03','A04','A05',...
