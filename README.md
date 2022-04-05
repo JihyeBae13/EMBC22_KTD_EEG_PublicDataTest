@@ -5,7 +5,7 @@ Bhoj Raj Thapa, Daniel Restrepo Tangarife, and Jihye Bae. "Kernel Temporal Diffe
 
 Use any of the uploaded codes, partially or fully, requires to cite this conference paper.
 
-To generate the figures, please consider runinning the uploaded codes in the following sequences:
+To generate the figures, please consider running the uploaded codes in the following sequences:
 
 For Data set A,
 1. Code_Step01A_EEG_DataA.m
